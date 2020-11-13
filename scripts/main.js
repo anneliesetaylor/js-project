@@ -1,7 +1,7 @@
 
 /* DOM EVENT #1 */
 
-let image = document.querySelector('#coffee_pic');
+let image = document.querySelector('#coffeepic');
 
 let hot = 'images/hot_coffee.jpg';
 let iced = 'images/iced_coffee.jpg';
